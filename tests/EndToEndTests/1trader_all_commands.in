@@ -1,0 +1,4 @@
+BUY 0 GPU 2 20;
+SELL 1 Router 4 20;
+AMEND 0 3 20;
+CANCEL 1;
